@@ -1,0 +1,46 @@
+ .heading{
+    line-height: 5px;
+    text-align: center;
+ }
+
+
+ .navi ul{
+    display:flex;
+ }
+ .navi ul li{
+    display: inline;
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 20%;
+    font-size: 110;
+ }
+
+
+ .navi{
+    width: 100%;
+    border-top: black 3px solid;
+    border-bottom: black 1px solid;
+    margin-top: 7%;
+
+ }
+ .part{
+   width: 100%;
+   display: flex;
+   margin-top: 3%;
+ }
+ .part .part1{
+   width: 33.3%;
+ }
+
+ .part .part2{
+   width: 33.3%;
+ }
+ .part .part3{
+   width: 33.3%;
+ }
+ .end{
+   font-size: 130%;
+   padding-right: 10%;
+   padding-left: 10%;
+   text-align: center;
+ }
